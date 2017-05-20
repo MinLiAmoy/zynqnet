@@ -4,7 +4,12 @@ The repo is contributed by ETH, which i should follow!
 HLs, 高层次综合，is based on C. Get familiar with it!!!
 
 ch2.1 is also ignored.
-ch3 for conv networkse passed. 下一个读这个！！！
+
+*ch3 for conv networkse not passed. 
+original convnet is SqueezeNet which using a conv modules called Fire modules to squeeze the channel size!
+Fire modules is easy to understand which can reduce or expand the dimension by using conv!
+*Squeeze net -> zynqnet: optimize for FPGA implementation.
+
 ch4.2 algorithm design and 4.3 hardware architecture is ignored. need to be read carefully!!!
 ch4.4 introduce Vivado HLS, which is owesome!!!
 
